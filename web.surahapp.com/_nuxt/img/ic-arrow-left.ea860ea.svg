@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_outline_arrow-left" data-name="vuesax/outline/arrow-left" opacity="0.3">
+    <g id="arrow-left" transform="translate(-684 -188)">
+      <path id="Union_3" data-name="Union 3" d="M-282.712,931.417l-6.07-6.07a.753.753,0,0,1,0-1.06l6.07-6.07a.753.753,0,0,1,1.06,0,.754.754,0,0,1,0,1.059l-4.791,4.791h15.19a.755.755,0,0,1,.751.75.755.755,0,0,1-.751.75h-15.19l4.791,4.791a.754.754,0,0,1,0,1.059.726.726,0,0,1-.53.22A.742.742,0,0,1-282.712,931.417Z" transform="translate(975.752 -724.818)" fill="#627536"/>
+      <path id="Vector" d="M0,0H24V24H0Z" transform="translate(684 188)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
